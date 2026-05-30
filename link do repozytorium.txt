@@ -1,1 +1,2 @@
+https://github.com/Cingomark/cwiczenia.git
 https://github.com/Cingomark/Lab4.git
